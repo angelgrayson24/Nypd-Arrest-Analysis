@@ -35,3 +35,6 @@ Implement cultural sensitivity training for law enforcement officers to foster u
 Community-Centric Policing:
 
 Foster stronger community-police relationships through transparency, community involvement in decision-making, and open communication.
+
+![image](https://github.com/angelgrayson24/Nypd-Arrest-Analysis/assets/134626928/8e7f8309-5030-478a-a0dd-ead22715a283)
+
